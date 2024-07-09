@@ -1,13 +1,13 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-
-url = "https://ninjatables.com/examples-of-data-table-design-on-website/"
+#URL goes here
+url = ""
 r = requests.get(url)
 
 soup = BeautifulSoup(r.text, "html.parser")
-#cc = input("Enter the Class Name ->")
-table = soup.find("table", class_= "foo-table ninja_footable foo_table_17874 ninja_table_unique_id_669291762_17874 ui table nt_type_legacy_table selectable striped vertical_centered footable-paging-right ninja_table_pro footable footable-1 footable-filtering footable-filtering-right footable-paging breakpoint-xs")
+#you manually need to find the class name of that table using inspect element
+table = soup.find("table", class_= "")
 
 header = table.find_all("th")
 
