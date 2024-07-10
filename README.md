@@ -16,7 +16,9 @@ Install dependencies using:
 pip install -r requirements.txt
 
 
-<img width="617" alt="Screenshot 2024-07-10 at 7 10 12 AM" src="https://github.com/tkshsbcue/Table-Scraper/assets/32425567/c200f0a2-bbe8-4870-8fe9-57805daef2a3">
+```
+
+img width="617" alt="Screenshot 2024-07-10 at 7 10 12 AM" src="https://github.com/tkshsbcue/Table-Scraper/assets/32425567/c200f0a2-bbe8-4870-8fe9-57805daef2a3"
 
 
 
