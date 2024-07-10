@@ -19,5 +19,5 @@ pip install -r requirements.txt
 ```
 
 
-<img width="672" alt="Screenshot 2024-07-10 at 7 11 12 AM" src="https://github.com/tkshsbcue/Table-Scraper/assets/32425567/59c6fb17-1d0e-4a96-8e95-37fb24f46807">
 
+<img width="744" alt="Screenshot 2024-07-10 at 7 11 47 AM" src="https://github.com/tkshsbcue/Table-Scraper/assets/32425567/7b898df6-9939-4db6-9285-b6a2bf156474">
